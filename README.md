@@ -1,6 +1,6 @@
 # Go Discord Bot with Gemini AI Integration
 
-This is a Go-based Discord bot that integrates **Google's Gemini AI** to provide intelligent interactions within Discord servers. It utilizes the following libraries:
+This is a Go-based Discord bot that integrates **Google's Gemini AI (Gemini-1.5-Pro-Latest)** to provide intelligent and dynamic interactions within Discord servers. The bot supports multiple input and output types, including **text, image, video, audio, and document file types**, enabling a versatile user experience. It utilizes the following libraries:
 
 - [discordgo](https://github.com/bwmarrin/discordgo) for Discord API integration
 - [generative-ai-go](https://github.com/google/generative-ai-go) for interacting with Google Gemini AI
